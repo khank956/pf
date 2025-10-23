@@ -97,9 +97,9 @@
     <div class="invitation">
         <h2>Thiệp Mời Đám Cưới</h2>
         <p>Kính mời bạn đến chung vui cùng chúng tôi</p>
-        <div class="names">💖 Khánh & Người Thương 💖</div>
+        <div class="names">💖 Khánh & Út khờ🤣 💖</div>
         <p>Vào lúc <b>10:00 sáng</b> ngày <b>25/12/2025</b></p>
-        <p>Tại: Nhà hàng Hoa Hồng, TP. Đà Nẵng</p>
+        <p>Tại: xxx </p>
         <p class="heart">💞</p>
     </div>
 </div>
