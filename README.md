@@ -136,13 +136,13 @@
 
     <div class="heart">💞</div>
 
-    <h2>Khánh & Người Thương</h2>
+    <h2>QUỐC KHÁNH & XUÂN MAI</h2>
 
     <p>Trân trọng kính mời bạn đến chung vui cùng chúng tôi trong ngày trọng đại.</p>
 
     <div class="date-place">
         <p><b>⏰ Thời gian:</b> 10:00 sáng, ngày 25/12/2025</p>
-        <p><b>📍 Địa điểm:</b> Nhà hàng Hoa Hồng, TP. Đà Nẵng</p>
+        <p><b>📍 Địa điểm:</b> TÂY NINH</p>
     </div>
 
     <p class="footer">Sự hiện diện của bạn là niềm vinh hạnh cho chúng tôi 💖</p>
