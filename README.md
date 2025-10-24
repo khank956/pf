@@ -131,7 +131,8 @@
     <h1>Thiệp Mời Đám Cưới</h1>
 
     <!-- 📸 KHU VỰC THÊM ẢNH -->
-    <img src="your-image.jpg" alt="Ảnh Cặp Đôi"> 
+    <img src="![image](https://github.com/user-attachments/assets/3695d6f3-72cb-42e9-bf2e-406736f29c7d)
+" alt="Ảnh Cặp Đôi"> 
     <!-- 👉 Thay "your-image.jpg" bằng link ảnh thật hoặc đường dẫn ảnh -->
 
     <div class="heart">💞</div>
